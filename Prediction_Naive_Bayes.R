@@ -1,6 +1,6 @@
 # Define your working directory
 
-setwd("C:/Users/Harshavardhan Koneru/Documents/Naive Bayes")
+setwd("C:/Users/admin/Documents/Naive Bayes")
 getwd()
 
 # Before we start modelling, let's analyse data
